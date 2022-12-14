@@ -8,3 +8,6 @@ The instructor's name is Scott Dossey
 
 * Test student 1
 * Austin Suttman
+
+* Test Student 2
+* Nick Chernock
